@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
      
-sanasauna
+<h1>Sanasauna Project</h1>
     </div>
   );
 }
