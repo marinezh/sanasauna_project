@@ -31,8 +31,6 @@
   },
   {
     "name": "huhtikuu",
-
-
     "translation": "april",
     "img": "#",
     "keywords": ["noun","months", "nimisana", "kuukaudet"],
@@ -611,6 +609,225 @@
     "explanation": [],
     "level": "easy",
     "links": []
+  },
+  {
+    "name": "pikku",
+    "translation": "little",
+    "img": "#", 
+    "keywords": ["pikkusanat", "littlewords"],
+    "example": [],
+    "explanation": [],
+    "level": "easy",
+    "links": []
+  },
+  {
+    "name": "muu",
+    "translation": "other",
+    "img": "#", 
+    "keywords": ["pikkusanat", "littlewords"],
+    "example": [],
+    "explanation": [],
+    "level": "easy",
+    "links": []
+  },
+  {
+    "name": "mutta",
+    "translation": "but",
+    "img": "#", 
+    "keywords": ["pikkusanat", "littlewords"],
+    "example": [],
+    "explanation": [],
+    "level": "easy",
+    "links": []
+  },
+  {
+    "name": "koska",
+    "translation": "because",
+    "img": "#", 
+    "keywords": ["pikkusanat", "littlewords"],
+    "example": [],
+    "explanation": [],
+    "level": "easy",
+    "links": []
+  },
+  {
+    "name": "myös",
+    "translation": "also",
+    "img": "#", 
+    "keywords": ["pikkusanat", "littlewords"],
+    "example": [],
+    "explanation": [],
+    "level": "easy",
+    "links": []
+  },
+  {
+    "name": "nyt",
+    "translation": "now",
+    "img": "#", 
+    "keywords": ["pikkusanat", "littlewords"],
+    "example": [],
+    "explanation": [],
+    "level": "easy",
+    "links": []
+  },
+  {
+    "name": "ensin",
+    "translation": "first",
+    "img": "#", 
+    "keywords": ["pikkusanat", "littlewords"],
+    "example": [],
+    "explanation": [],
+    "level": "easy",
+    "links": []
+  },
+  {
+    "name": "sitten",
+    "translation": "then",
+    "img": "#", 
+    "keywords": ["pikkusanat", "littlewords"],
+    "example": [],
+    "explanation": [],
+    "level": "easy",
+    "links": []
+  },
+  {
+    "name": "tai",
+    "translation": "or",
+    "img": "#", 
+    "keywords": ["pikkusanat", "littlewords"],
+    "example": [],
+    "explanation": [],
+    "level": "easy",
+    "links": []
+  },
+  {
+    "name": "joka",
+    "translation": "every",
+    "img": "#", 
+    "keywords": ["pikkusanat", "littlewords"],
+    "example": [],
+    "explanation": [],
+    "level": "easy",
+    "links": []
+  },
+  {
+    "name": "koko",
+    "translation": "whole",
+    "img": "#", 
+    "keywords": ["pikkusanat", "littlewords"],
+    "example": [],
+    "explanation": [],
+    "level": "easy",
+    "links": []
+  },
+  {
+    "name": "tosi",
+    "translation": "really",
+    "img": "#", 
+    "keywords": ["pikkusanat", "littlewords"],
+    "example": [],
+    "explanation": [],
+    "level": "easy",
+    "links": []
+  },
+  {
+    "name": "päärynä",
+    "translation": "pear",
+    "img": "#",
+    "keywords": ["noun","fruit", "nimisana", "hedelmät"],
+    "example": [],
+    "explanation": [],
+    "level": "easy",
+    "links": []
+  },
+  {
+    "name": "omena",
+    "translation": "apple",
+    "img": "#",
+    "keywords": ["noun","fruit", "nimisana", "hedelmät"],
+    "example": [],
+    "explanation": [],
+    "level": "easy",
+    "links": []
+  },
+  {
+    "name": "luumu",
+    "translation": "plum",
+    "img": "#",
+    "keywords": ["noun","fruit", "nimisana", "hedelmät"],
+    "example": [],
+    "explanation": [],
+    "level": "easy",
+    "links": []
+  },
+  {
+    "name": "greippi",
+    "translation": "grapefruit",
+    "img": "#",
+    "keywords": ["noun","fruit", "nimisana", "hedelmät"],
+    "example": [],
+    "explanation": [],
+    "level": "easy",
+    "links": []
+  },
+  {
+    "name": "banaani",
+    "translation": "banana",
+    "img": "#",
+    "keywords": ["noun","fruit", "nimisana", "hedelmät"],
+    "example": [],
+    "explanation": [],
+    "level": "easy",
+    "links": []
+  },
+  {
+    "name": "kurkku",
+    "translation": "cucumber",
+    "img": "#",
+    "keywords": ["noun","vegetables", "nimisana", "kasvikset"],
+    "example": [],
+    "explanation": [],
+    "level": "easy",
+    "links": []
+  },
+  {
+    "name": "kaali",
+    "translation": "cabbage",
+    "img": "#",
+    "keywords": ["noun","vegetables", "nimisana", "kasvikset"],
+    "example": [],
+    "explanation": [],
+    "level": "easy",
+    "links": []
+  },
+  {
+    "name": "peruna",
+    "translation": "potato",
+    "img": "#",
+    "keywords": ["noun","vegetables", "nimisana", "kasvikset"],
+    "example": [],
+    "explanation": [],
+    "level": "easy",
+    "links": []
+  },
+  {
+    "name": "kurpitsa",
+    "translation": "pumpkin",
+    "img": "#",
+    "keywords": ["noun","vegetables", "nimisana", "kasvikset"],
+    "example": [],
+    "explanation": [],
+    "level": "easy",
+    "links": []
+  },
+  {
+    "name": "kurpitsa",
+    "translation": "pumpkin",
+    "img": "#",
+    "keywords": ["noun","vegetables", "nimisana", "kasvikset"],
+    "example": [],
+    "explanation": [],
+    "level": "easy",
+    "links": []
   }
-
 ]
